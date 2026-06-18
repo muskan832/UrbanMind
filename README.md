@@ -30,6 +30,8 @@ AI-Powered Smart City Digital Twin and Urban Planning Platform built using ASP.N
 ## Status
 Project Planning & Database Design Phase
 
+Initial database schema added
+
 
 
 
