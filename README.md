@@ -19,16 +19,9 @@ AI-Powered Smart City Digital Twin and Urban Planning Platform built using ASP.N
 - AQI Monitoring System
 - Water & Energy Consumption Tracking
 
-## Future Enhancements
-
-- NLP-based Complaint Classification
-- AI-based Traffic Prediction
-- Smart Simulation Engine
-- AI City Assistant Chatbot
 
 
 ## Status
-Project Planning & Database Design Phase
 
 Initial database schema added
 
